@@ -29,7 +29,7 @@ This assignment introduces you how to use **_Github Copilot for getting started_
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
-1. Getting Started with GitHub Copilot: _REPO LINK 1_
+1. Getting Started with GitHub Copilot: https://github.com/umarchikfayzullaev/skills-getting-started-with-github-copilot2
 2. Customize Your GitHub Copilot Experience: _REPO LINK 2_
 3. GitHub Copilot Code Review:  _REPO LINK 3_
 4. Integrate MCP with GitHub Copilot: _REPO LINK 4_
